@@ -41,7 +41,7 @@ npm install
 ```bash
  npm i redux react-redux redux-thunk 
  ```
-#### For Firebase
+#### Firebase
 ```bash
  npm i redux-firestore react-redux-firebase
  ```
