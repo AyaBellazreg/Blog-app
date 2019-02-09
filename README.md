@@ -1,6 +1,6 @@
-# Blogging app based on React
+# Project mangement app based on React
 
-A blogging app based on React and Redux using Firestore for a Realtime Database.
+A simple project management app based on React and Redux using Firestore for a Realtime Database.
 
 ## Features
 * Login form
