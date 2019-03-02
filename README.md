@@ -32,21 +32,7 @@ A simple project management app based on React and Redux using Firestore for a R
 ```bash
 npm install
 ```
-2. Install the following additional packages:
-#### React router
-```bash
- npm i react-router-dom
- ```
- #### Redux
-```bash
- npm i redux react-redux redux-thunk 
- ```
-#### Firebase
-```bash
- npm i redux-firestore react-redux-firebase
- ```
-
-3. Start the React App:
+2. Start the React App:
 ```bash
 npm start
 ```
