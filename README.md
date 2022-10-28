@@ -1,4 +1,4 @@
-# Project mangement app based on React
+# Blogging app based on React
 
 A simple Blogging app based on React and Redux using Firestore for a Realtime Database.
 
